@@ -1,0 +1,11 @@
+name: amath
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - sparse
+  - scikit-learn
+  - opencv
+  - nbgitpuller
