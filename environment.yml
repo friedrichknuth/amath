@@ -2,6 +2,7 @@ name: amath
 channels:
   - conda-forge
 dependencies:
+  - mnist
   - matplotlib
   - numpy
   - pandas
@@ -9,3 +10,7 @@ dependencies:
   - scikit-learn
   - opencv
   - nbgitpuller
+  - jupyterlab
+  - nodejs
+  - pip:
+    - python-mnist
