@@ -9,6 +9,7 @@ dependencies:
   - pandas
   - sparse
   - scikit-learn
+  - scikit-image
   - opencv
   - nbgitpuller
   - jupyterlab
